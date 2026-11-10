@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+data/online_retail_II.xlsx
+data/retail_clean.parquet
